@@ -1,0 +1,19 @@
+[
+    {
+        "customer" : "BigCo",
+        "performances" : [
+            {
+                "playID" : "햄릿",
+                "audience" : 55
+            },
+            {
+                "playID" : "뜻대로하세요",
+                "audience" : 35
+            },
+            {
+                "playID" : "오델로",
+                "audience" : 40
+            }
+        ]
+    }
+]
